@@ -1,0 +1,118 @@
+*{
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+}
+
+body{
+    padding-top: 50px;
+}
+
+section{
+    padding-top: 25px;
+    padding-bottom: 15px;
+    min-height: 100vh;
+}
+
+section#contato{
+    min-height: 80vh;
+}
+
+footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: url(../imgs/bgslider.png);
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
+
+.divslider{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: url(../imgs/bgslider.png);
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+
+.div_colorida{
+    background: url(../imgs/bgslider.png);
+}
+
+.servico_item  *{
+    text-align: center;
+}
+
+.servico_item h4{
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+.servicos_btn_todososservicos{
+    margin-top: 25px;
+}
+
+.portfolio_item{
+    background: white;
+}
+
+.portfolio_row{
+    margin-bottom: 20px;
+}
+
+.portfolio_row:last-child{
+    margin-bottom: 0px;
+}
+
+.portfolio_item h4 {
+    text-align: center;
+    margin-top: 10px;
+    padding-bottom : 10px;
+}
+
+.contato textarea{
+    height: 170px;
+}
+
+.contato .aviso{
+    padding: 15px;
+}
+
+.section_interna{
+    padding-top: 0px;
+}
+
+.form-login{
+    max-width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background: #eee;
+}
+
+.form-login input{
+    margin-top: 10px;
+}
+
+.panel {
+    margin-bottom: 2px;
+}
+
+.conteudo_painel{
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #eee;
+    box-shadow: 5px 5px 5px #888;
+}
+
+.conteudo_painel_int{
+    padding: 12px;
+}
